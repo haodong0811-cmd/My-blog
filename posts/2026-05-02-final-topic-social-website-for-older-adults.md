@@ -1,5 +1,5 @@
 ---
-title: Final Topic: A Social Website for Middle-Aged and Older Adults
+title: A Social Website for Middle-Aged and Older Adults
 date: 2026-05-02
 author: Haodong Zhao
 summary: This post introduces our final topic and explains the main purpose and basic functions of our website.
